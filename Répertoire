@@ -1,0 +1,37 @@
+  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+  662  unzip planets.zip
+  663  eog planets
+  664  sudo apt install eog
+  665  eog planets
+  666  cd planets
+  667  mkdir real fictional inhabited 
+  668  cd real
+  669  mkdir telluric gas-giants dwarf-planets
+  670  mv :cd..
+  671  cd ..
+  672  mv earth.jpeg jupiter.jpeg mars.jpeg mercury.jpeg real/
+  673  mv neptune.jpeg pluto.jpeg saturn.jpeg uranus.jpeg venus.jpeg real
+  674  mv arrakis.jpef coruscant.jpeg cybertron.jpeg real
+  675  arrakis.jpeg real
+  676  mv arrakis.jpeg real
+  677  cd real
+  678  mv  arrakis.jpeg coruscant.jped cubertron.jpeg planets
+  679  mv arrakis.jpeg coruscant.jpeg cybertron.jpeg fictional
+  680  mv arrakis.jpeg fictional
+  681  cd ..
+  682  mv arrakis.jpeg fictional
+  683  mv coruscant.jpeg cybertron.jpeg fictional
+  684  mv arrakis.jpeg planets/inhabited
+  685  cd fictional
+  686  cp arrakis.jpeg planets/inhabited
+  687  cd ..
+  688  cp fictional/arrakis.jpeg inhabited
+  689  cp fictional/c* inhabited
+  690  cp real/earth.jpeg inhabited
+  691  cd real
+  692  rm pluto.jpeg
+  693  tree
+  694  cd..
+  695  cd ..
+  696  tree
+  697  history
