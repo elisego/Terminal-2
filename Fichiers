@@ -1,0 +1,25 @@
+administrateur@pc-linuxshop-8796:~/quetes/shell/planets$ tree
+.
+├── fictional
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   └── cybertron.jpeg
+├── inhabited
+│   ├── arrakis.jpeg
+│   ├── coruscant.jpeg
+│   ├── cybertron.jpeg
+│   └── earth.jpeg
+└── real
+    ├── dwarf-planets
+    ├── earth.jpeg
+    ├── gas-giants
+    ├── jupiter.jpeg
+    ├── mars.jpeg
+    ├── mercury.jpeg
+    ├── neptune.jpeg
+    ├── saturn.jpeg
+    ├── telluric
+    ├── uranus.jpeg
+    └── venus.jpeg
+
+6 directories, 15 files
