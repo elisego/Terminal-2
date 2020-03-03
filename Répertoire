@@ -1,4 +1,5 @@
-  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+ 660  sudo apt-get install -y tree wget unzip
+  661  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
   662  unzip planets.zip
   663  eog planets
   664  sudo apt install eog
@@ -35,3 +36,15 @@
   695  cd ..
   696  tree
   697  history
+  698  cd ..tree
+  699  cd real
+  700  mv jupiter.jpeg
+  701  mv jupiter.jpeg gas-giants
+  702  mv neptune.jpeg saturn.jpeg uranus.jpeg gas-giants
+  703  mv earth.jpeg mars.jpeg mercury.jpeg venus.jpeg telluric
+  704  rm -r dwarf-planets
+  705  tree
+  706  cd ..
+  707  tree
+  708  historic
+  709  history
